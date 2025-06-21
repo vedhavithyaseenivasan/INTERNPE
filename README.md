@@ -3,7 +3,7 @@
 Welcome to my **InternPE Java Programming Internship** repository!  
 This repository contains all the Java-based projects I developed as part of my one-month online internship at **InternPE**.
 
-## 🗓️ Duration
+## Intern Details
 
 **Start Date:** 02/09/2024  
 **End Date:** 29/09/2024  
